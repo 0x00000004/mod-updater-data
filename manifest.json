@@ -1,0 +1,55 @@
+{
+  "version": "1.0",
+  "mods": [
+    {
+      "name": "FallingTree",
+      "file": "mods/FallingTree-1.21.3-1.21.3.13.jar",
+      "version": "1.21.3"
+    },
+    {
+      "name": "FromTheFog",
+      "file": "mods/From-The-Fog-Forge-Fabric-1.21.2-1.21.3-v1.10.3.jar",
+      "version": "1.10.3"
+    },
+    {
+      "name": "InventoryProfilesNext",
+      "file": "mods/InventoryProfilesNext-forge-1.21.3-2.1.5.jar",
+      "version": "2.1.5"
+    },
+    {
+      "name": "JourneyMap",
+      "file": "mods/journeymap-forge-1.21.3-6.0.0-beta.31.jar",
+      "version": "6.0.0-beta.31"
+    },
+    {
+      "name": "KotlinForForge",
+      "file": "mods/kotlinforforge-5.11.0-all.jar",
+      "version": "5.11.0"
+    },
+    {
+      "name": "libIPN",
+      "file": "mods/libIPN-forge-1.21.3-6.4.0.jar",
+      "version": "6.4.0"
+    },
+    {
+      "name": "OptiFine",
+      "file": "mods/OptiFine_1.21.3_HD_U_J2.jar",
+      "version": "HD_U_J2"
+    },
+    {
+      "name": "SoundPhysics",
+      "file": "mods/sound-physics-remastered-forge-1.21.3-1.4.7.jar",
+      "version": "1.4.7"
+    },
+    {
+      "name": "TLSkinCape",
+      "file": "mods/tl_skin_cape_forge_1.21.3_1.21.4-1.38.jar",
+      "version": "1.38"
+    },
+    {
+      "name": "SimpleVoiceChat",
+      "file": "mods/voicechat-forge-1.21.3-2.5.31.jar",
+      "version": "2.5.31"
+    }
+  ]
+}
