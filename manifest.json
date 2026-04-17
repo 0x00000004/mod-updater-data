@@ -2,19 +2,9 @@
   "version": "2.0",
   "mods": [
     {
-      "name": "Deimos",
-      "file": "mods/deimos-1.21.3-forge-2.5.jar",
-      "version": "2.5"
-    },
-    {
       "name": "FallingTree",
       "file": "mods/FallingTree-1.21.3-1.21.3.13.jar",
       "version": "1.21.3"
-    },
-    {
-      "name": "FromTheFog",
-      "file": "mods/From-The-Fog-Forge-Fabric-1.21.2-1.21.3-v1.10.3.jar",
-      "version": "1.10.3"
     },
     {
       "name": "InventoryProfilesNext",
@@ -35,11 +25,6 @@
       "name": "libIPN",
       "file": "mods/libIPN-forge-1.21.3-6.4.0.jar",
       "version": "6.4.0"
-    },
-    {
-      "name": "ServerSideHorror",
-      "file": "mods/serversidehorror-1.21.3-forge-4.1.jar",
-      "version": "4.1"
     },
     {
       "name": "SoundPhysics",
