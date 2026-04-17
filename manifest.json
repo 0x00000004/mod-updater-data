@@ -2,6 +2,11 @@
   "version": "2.0",
   "mods": [
     {
+      "name": "Deimos",
+      "file": "mods/deimos-1.21.3-forge-2.5.jar",
+      "version": "2.5"
+    },
+    {
       "name": "FallingTree",
       "file": "mods/FallingTree-1.21.3-1.21.3.13.jar",
       "version": "1.21.3"
