@@ -32,9 +32,9 @@
       "version": "6.4.0"
     },
     {
-      "name": "OptiFine",
-      "file": "mods/OptiFine_1.21.3_HD_U_J2.jar",
-      "version": "HD_U_J2"
+      "name": "ServerSideHorror",
+      "file": "mods/serversidehorror-1.21.3-forge-4.1.jar",
+      "version": "4.1"
     },
     {
       "name": "SoundPhysics",
