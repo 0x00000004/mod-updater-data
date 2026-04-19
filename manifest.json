@@ -1,65 +1,55 @@
 {
-  "version": "2.0",
+  "version": "1.0.0",
   "mods": [
-    {
-      "name": "FallingTree",
-      "file": "mods/FallingTree-1.21.4-1.21.4.13.jar",
-      "version": "1.21.4"
-    },
-    {
-      "name": "FromTheFog",
-      "file": "mods/From-The-Fog-Forge-Fabric-1.21.4-v1.10.3.jar",
-      "version": "1.10.3"
-    },
-    {
-      "name": "InventoryProfilesNext",
-      "file": "mods/InventoryProfilesNext-forge-1.21.4-2.1.9.jar",
-      "version": "2.1.9"
-    },
-    {
-      "name": "BetterVillage",
-      "file": "mods/bettervillage-forge-1.21.4-3.3.1-all.jar",
-      "version": "3.3.1"
-    },
-    {
-      "name": "Collective",
-      "file": "mods/collective-1.21.4-8.3.jar",
-      "version": "8.3"
-    },
-    {
-      "name": "JourneyMap",
-      "file": "mods/journeymap-forge-1.21.4-6.0.0-beta.47.jar",
-      "version": "6.0.0-beta.47"
-    },
-    {
-      "name": "KotlinForForge",
-      "file": "mods/kotlinforforge-5.11.0-all.jar",
-      "version": "5.11.0"
-    },
-    {
-      "name": "libIPN",
-      "file": "mods/libIPN-forge-1.21.4-6.5.1.jar",
-      "version": "6.5.1"
-    },
-    {
-      "name": "LibraryFerret",
-      "file": "mods/libraryferret-forge-1.21.4-4.0.0.jar",
-      "version": "4.0.0"
-    },
-    {
-      "name": "SoundPhysics",
-      "file": "mods/sound-physics-remastered-forge-1.21.4-1.5.1.jar",
-      "version": "1.5.1"
-    },
-    {
-      "name": "TLSkinCape",
-      "file": "mods/tl_skin_cape_forge_1.21.3_1.21.4-1.38.jar",
-      "version": "1.38"
-    },
-    {
-      "name": "SimpleVoiceChat",
-      "file": "mods/voicechat-forge-1.21.4-2.6.16.jar",
-      "version": "2.6.16"
-    }
+    { "name": "AI Improvements", "file": "mods/AI-Improvements-1.20-0.5.2.jar" },
+    { "name": "Bookshelf", "file": "mods/Bookshelf-Forge-1.20.1-20.2.13.jar" },
+    { "name": "Darkness", "file": "mods/darkness-forge-1.20.1-2.0.103-fork.jar" },
+    { "name": "FerriteCore", "file": "mods/ferritecore-6.0.1-forge.jar" },
+    { "name": "Hunger Strike", "file": "mods/HungerStrike-1.20.1-8.0.0.jar" },
+    { "name": "JEI", "file": "mods/jei-1.20.1-forge-15.20.0.112.jar" },
+    { "name": "No Moon", "file": "mods/no_moon-1.5.5-forge-1.20.1.jar" },
+    { "name": "Nostalgic Structures", "file": "mods/nostalgic_structures-1.3.0-forge-1.20.1.jar" },
+    { "name": "Oculus", "file": "mods/oculus-mc1.20.1-1.8.0.jar" },
+    { "name": "TenshiLib", "file": "mods/tenshilib-1.20.1-1.7.6-forge.jar" },
+    { "name": "Voice Chat", "file": "mods/voicechat-forge-1.20.1-2.6.6.jar" },
+
+    { "name": "Architectury", "file": "mods/architectury-9.2.14-forge.jar" },
+    { "name": "Chat Heads", "file": "mods/chat_heads-0.14.0-forge-1.20.jar" },
+    { "name": "Embeddium", "file": "mods/embeddium-0.3.31+mc1.20.1.jar" },
+    { "name": "GeckoLib", "file": "mods/geckolib-forge-1.20.1-4.8.2.jar" },
+    { "name": "ImmediatelyFast", "file": "mods/ImmediatelyFast-Forge-1.5.2+1.20.4.jar" },
+    { "name": "ModernFix", "file": "mods/modernfix-forge-5.24.4+mc1.20.1.jar" },
+    { "name": "Noisium", "file": "mods/noisium-forge-2.3.0+mc1.20.1.jar" },
+    { "name": "Not Enough Recipe Book", "file": "mods/Not Enough Recipe Book-FORGE-0.4.1+1.20.1.jar" },
+    { "name": "Old PvP", "file": "mods/old_pvp-0.2.0-1.20.1.jar" },
+    { "name": "The Broken Script", "file": "mods/thebrokenscript-1.9.3-forge-1.20.1.jar" },
+    { "name": "Yet Another Config Lib", "file": "mods/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar" },
+
+    { "name": "Better Clouds", "file": "mods/better-clouds-1.3.37-beta+1.20.1-forge.rev.e63efe2.jar" },
+    { "name": "Cloth Config", "file": "mods/cloth-config-11.1.136-forge.jar" },
+    { "name": "Entity Culling", "file": "mods/entityculling-forge-1.9.2-mc1.20.1.jar" },
+    { "name": "Horror Messages", "file": "mods/horror_messages_forge-1.0.0-forge-1.20.1.jar" },
+    { "name": "It's Not Real", "file": "mods/itsnotreal-0.0.0.0.0.0.jar" },
+    { "name": "ModernFix (alt?)", "file": "mods/modernfix-forge-5.24.4+mc1.20.1.jar" },
+    { "name": "No Phantoms", "file": "mods/nophantoms-0.1.jar" },
+    { "name": "OctoLib", "file": "mods/OctoLib-FORGE-0.5.0+1.20.1.jar" },
+    { "name": "Old MC Logo", "file": "mods/oldmclogo-1.1.0.jar" },
+    { "name": "Tips", "file": "mods/Tips-Forge-1.20.1-12.1.8.jar" }
+  ],
+
+  "resource_packs": [
+    { "name": "Golden Days Alpha", "file": "resourcepacks/golden-days-alpha-1.21.x-1.13.0.zip" },
+    { "name": "Golden Days Base", "file": "resourcepacks/golden-days-base-1.21.x-1.13.1.zip" },
+    { "name": "OG Minecraft", "file": "resourcepacks/OG MINECRAFT.zip" },
+    { "name": "Old Dirt Background", "file": "resourcepacks/Old dirt background.zip" },
+    { "name": "Old Beta Cobblestone", "file": "resourcepacks/Old-Beta Cobblestone 1.20-1.20.1 V1.0.zip" },
+    { "name": "Old Lighting", "file": "resourcepacks/old-lighting-old-water.zip" },
+    { "name": "Old Sounds", "file": "resourcepacks/old-sounds-default-version.zip" }
+  ],
+
+  "shaders": [
+    { "name": "Body Camera Shader", "file": "shaderpacks/Body Camera Shader - V1.5.0.zip" },
+    { "name": "CTR VCR Shader", "file": "shaderpacks/CTR-VCR_v1.2.3.zip" },
+    { "name": "PSX Shader", "file": "shaderpacks/psx-shader-nb.zip" }
   ]
 }
