@@ -1,0 +1,70 @@
+{
+  "version": "3.0",
+  "mods": [
+    {
+      "name": "FallingTree",
+      "file": "mods/FallingTree-1.21.4-1.21.4.13.jar",
+      "version": "1.21.4"
+    },
+    {
+      "name": "InventoryProfilesNext",
+      "file": "mods/InventoryProfilesNext-neoforge-1.21.4-2.1.9.jar",
+      "version": "2.1.9"
+    },
+    {
+      "name": "AppleSkin",
+      "file": "mods/appleskin-neoforge-mc1.21.3-3.0.8.jar",
+      "version": "3.0.8"
+    },
+    {
+      "name": "BetterVillage",
+      "file": "mods/bettervillage-neoforge-1.21.4-3.3.1.jar",
+      "version": "3.3.1"
+    },
+    {
+      "name": "Iris",
+      "file": "mods/iris-neoforge-1.8.8+mc1.21.4.jar",
+      "version": "1.8.8"
+    },
+    {
+      "name": "JourneyMap",
+      "file": "mods/journeymap-neoforge-1.21.4-6.0.0-beta.47.jar",
+      "version": "6.0.0-beta.47"
+    },
+    {
+      "name": "KotlinForForge",
+      "file": "mods/kotlinforforge-5.11.0-all.jar",
+      "version": "5.11.0"
+    },
+    {
+      "name": "IrisBinaries",
+      "file": "mods/irb-neoforge-1.21.4-6.5.jar",
+      "version": "6.5"
+    },
+    {
+      "name": "LibraryFerret",
+      "file": "mods/libraryferret-neoforge-1.21.4-4.0.0.jar",
+      "version": "4.0.0"
+    },
+    {
+      "name": "Reap",
+      "file": "mods/reap-neoforge-1.21.4-1.1.2.jar",
+      "version": "1.1.2"
+    },
+    {
+      "name": "Sodium",
+      "file": "mods/sodium-neoforge-0.6.13+mc1.21.4.jar",
+      "version": "0.6.13"
+    },
+    {
+      "name": "SoundPhysicsRemastered",
+      "file": "mods/sound-physics-remastered-neoforge-1.21.4-1.5.1.jar",
+      "version": "1.5.1"
+    },
+    {
+      "name": "SimpleVoiceChat",
+      "file": "mods/voicechat-neoforge-1.21.4-2.6.16.jar",
+      "version": "2.6.16"
+    }
+  ]
+}
