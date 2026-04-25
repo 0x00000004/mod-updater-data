@@ -37,6 +37,11 @@
       "version": "5.11.0"
     },
     {
+      "name": "LibIPN",
+      "file": "mods/libIPN-neoforge-1.21.4-6.5.1.jar",
+      "version": "6.5.1"
+    },
+    {
       "name": "LibraryFerret",
       "file": "mods/libraryferret-neoforge-1.21.4-4.0.0.jar",
       "version": "4.0.0"
