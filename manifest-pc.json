@@ -2,69 +2,159 @@
   "version": "3.0",
   "mods": [
     {
-      "name": "FallingTree",
-      "file": "mods/FallingTree-1.21.4-1.21.4.13.jar",
-      "version": "1.21.4"
+      "name": "AI-Improvements",
+      "file": "mods/AI-Improvements-1.20-0.5.2.jar",
+      "version": "0.5.2"
     },
     {
-      "name": "InventoryProfilesNext",
-      "file": "mods/InventoryProfilesNext-neoforge-1.21.4-2.1.9.jar",
-      "version": "2.1.9"
+      "name": "Architectury",
+      "file": "mods/architectury-9.2.14-forge.jar",
+      "version": "9.2.14"
     },
     {
-      "name": "AppleSkin",
-      "file": "mods/appleskin-neoforge-mc1.21.3-3.0.8.jar",
-      "version": "3.0.8"
+      "name": "BetterClouds",
+      "file": "mods/better-clouds-1.3.37-beta+1.20.1-forge.rev.e63efe2.jar",
+      "version": "1.3.37-beta"
     },
     {
-      "name": "BetterVillage",
-      "file": "mods/bettervillage-neoforge-1.21.4-3.3.1.jar",
-      "version": "3.3.1"
+      "name": "Bookshelf",
+      "file": "mods/Bookshelf-Forge-1.20.1-20.2.13.jar",
+      "version": "20.2.13"
     },
     {
-      "name": "Iris",
-      "file": "mods/iris-neoforge-1.8.8+mc1.21.4.jar",
-      "version": "1.8.8"
+      "name": "ChatHeads",
+      "file": "mods/chat_heads-0.14.0-forge-1.20.jar",
+      "version": "0.14.0"
     },
     {
-      "name": "JourneyMap",
-      "file": "mods/journeymap-neoforge-1.21.4-6.0.0-beta.47.jar",
-      "version": "6.0.0-beta.47"
+      "name": "ClothConfig",
+      "file": "mods/cloth-config-11.1.136-forge.jar",
+      "version": "11.1.136"
     },
     {
-      "name": "KotlinForForge",
-      "file": "mods/kotlinforforge-5.11.0-all.jar",
-      "version": "5.11.0"
+      "name": "Darkness",
+      "file": "mods/darkness-forge-1.20.1-2.0.103-fork.jar",
+      "version": "2.0.103"
     },
     {
-      "name": "LibIPN",
-      "file": "mods/libIPN-neoforge-1.21.4-6.5.1.jar",
-      "version": "6.5.1"
+      "name": "Embeddium",
+      "file": "mods/embeddium-0.3.31+mc1.20.1.jar",
+      "version": "0.3.31"
     },
     {
-      "name": "LibraryFerret",
-      "file": "mods/libraryferret-neoforge-1.21.4-4.0.0.jar",
-      "version": "4.0.0"
+      "name": "EntityCulling",
+      "file": "mods/entityculling-forge-1.9.2-mc1.20.1.jar",
+      "version": "1.9.2"
     },
     {
-      "name": "Reap",
-      "file": "mods/reap-neoforge-1.21.4-1.1.2.jar",
-      "version": "1.1.2"
+      "name": "FerriteCore",
+      "file": "mods/ferritecore-6.0.1-forge.jar",
+      "version": "6.0.1"
     },
     {
-      "name": "Sodium",
-      "file": "mods/sodium-neoforge-0.6.13+mc1.21.4.jar",
-      "version": "0.6.13"
+      "name": "GeckoLib",
+      "file": "mods/geckolib-forge-1.20.1-4.8.2.jar",
+      "version": "4.8.2"
     },
     {
-      "name": "SoundPhysicsRemastered",
-      "file": "mods/sound-physics-remastered-neoforge-1.21.4-1.5.1.jar",
-      "version": "1.5.1"
+      "name": "HorrorMessages",
+      "file": "mods/horror_messages_forge-1.0.0-forge-1.20.1.jar",
+      "version": "1.0.0"
+    },
+    {
+      "name": "HungerStrike",
+      "file": "mods/HungerStrike-1.20.1-8.0.0.jar",
+      "version": "8.0.0"
+    },
+    {
+      "name": "ImmediatelyFast",
+      "file": "mods/ImmediatelyFast-Forge-1.5.2+1.20.4.jar",
+      "version": "1.5.2"
+    },
+    {
+      "name": "ItsNotReal",
+      "file": "mods/itsnotreal-0.0.0.0.0.0.0.0.jar",
+      "version": "0.0.0.0.0.0.0.0"
+    },
+    {
+      "name": "JEI",
+      "file": "mods/jei-1.20.1-forge-15.20.0.112.jar",
+      "version": "15.20.0.112"
+    },
+    {
+      "name": "Moderner",
+      "file": "mods/moderner-beta-2.1.1+1.20.1-forge.jar",
+      "version": "2.1.1-beta"
+    },
+    {
+      "name": "ModernFix",
+      "file": "mods/modernfix-forge-5.24.4+mc1.20.1.jar",
+      "version": "5.24.4"
+    },
+    {
+      "name": "Noisium",
+      "file": "mods/noisium-forge-2.3.0+mc1.20-1.20.1.jar",
+      "version": "2.3.0"
+    },
+    {
+      "name": "NoPhantoms",
+      "file": "mods/nophantoms-0.1.jar",
+      "version": "0.1"
+    },
+    {
+      "name": "NostalgicStructures",
+      "file": "mods/nostalgic_structures-1.3.0-forge-1.20.1.jar",
+      "version": "1.3.0"
+    },
+    {
+      "name": "NotEnoughRecipeBook",
+      "file": "mods/Not.Enough.Recipe.Book-FORGE-0.4.1+1.20.1.jar",
+      "version": "0.4.1"
+    },
+    {
+      "name": "NoMoon",
+      "file": "mods/no_moon-1.5.5-forge-1.20.1.jar",
+      "version": "1.5.5"
+    },
+    {
+      "name": "OctoLib",
+      "file": "mods/OctoLib-FORGE-0.5.0.1+1.20.1.jar",
+      "version": "0.5.0.1"
+    },
+    {
+      "name": "Oculus",
+      "file": "mods/oculus-mc1.20.1-1.8.0.jar",
+      "version": "1.8.0"
+    },
+    {
+      "name": "OldMCLogo",
+      "file": "mods/oldmclogo-1.1.0.jar",
+      "version": "1.1.0"
+    },
+    {
+      "name": "OldPvP",
+      "file": "mods/old_pvp-0.2.0-1.20.1.jar",
+      "version": "0.2.0"
+    },
+    {
+      "name": "TenshiLib",
+      "file": "mods/tenshilib-1.20.1-1.7.6-forge.jar",
+      "version": "1.7.6"
+    },
+    {
+      "name": "Tips",
+      "file": "mods/Tips-Forge-1.20.1-12.1.8.jar",
+      "version": "12.1.8"
     },
     {
       "name": "SimpleVoiceChat",
-      "file": "mods/voicechat-neoforge-1.21.4-2.6.16.jar",
-      "version": "2.6.16"
+      "file": "mods/voicechat-forge-1.20.1-2.6.6.jar",
+      "version": "2.6.6"
+    },
+    {
+      "name": "YACL",
+      "file": "mods/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+      "version": "3.6.6"
     }
   ]
 }
